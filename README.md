@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakesh0605
-- 👀 I’m interested in python,javascript,django,mongodb,html
-- 🌱 I’m currently learning on python(LMS Platform)
+- 👀 I’m interested in python,javascript,django,SQL
+- 🌱 I’m currently learning on API's Integration
 - 📫 How to reach me rakeshr0006@gmail.com
 
 <!---
